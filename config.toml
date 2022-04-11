@@ -1,0 +1,44 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "tw3"
+copyright = "Copyright © 2022 Powered by ❤ by "
+assetDir = "static/img"
+
+# menu
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+
+[[menu.main]]
+URL = "/about/"
+name = "About"
+weight = 2
+
+[[menu.main]]
+URL = "/contact/"
+name = "Contact"
+weight = 3
+
+# default parameters
+[params]
+home = "Home"
+logo = "img/logo-emptyarea.svg"
+logo_light = "img/logo-light.svg"
+# contact info
+email = ""
+address = "125/A, CA Commercial Area, California, USA"
+# meta description
+author = "Jeffrey Qian"
+description = "This is meta description"
+imageWidths = [1500, 900, 600]
+
+[module]
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "static/img"
+target = "assets/img"
