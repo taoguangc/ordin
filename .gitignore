@@ -1,6 +1,8 @@
+.DS_Store
+node_modules/
+/resources/_gen/
 /public/
 /.hugo_build.lock
 /resources/_gen/
 .idea/
 .vscode/
-node_modules/
