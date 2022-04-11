@@ -1,21 +1,21 @@
 {
-  "name": "hugo-pipes-tailwind-3",
+  "name": "Ordin",
   "version": "1.0.0",
-  "description": "hugo-pipes-tailwind-3",
+  "description": "Ordin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gioni06/hugo-pipes-tailwind-3.git"
+    "url": "git+https://github.com/taoguangc/ordin.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gioni06/hugo-pipes-tailwind-3/issues"
+    "url": "https://github.com/taoguangc/ordin/issues"
   },
-  "homepage": "https://github.com/Gioni06/hugo-pipes-tailwind-3#readme",
+  "homepage": "https://taoguangc/ordin#readme",
   "dependencies": {
     "alpinejs": "^3.9.6",
     "postcss-cli": "^9.1.0"
