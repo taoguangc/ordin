@@ -1,5 +1,5 @@
 {
-  "name": "Ordin",
+  "name": "ordin",
   "version": "1.0.0",
   "description": "Ordin",
   "main": "index.js",
@@ -23,6 +23,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
-    "tailwindcss": "^3.0.23"
+    "tailwindcss": "^3.0.24"
   }
 }
