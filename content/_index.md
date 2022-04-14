@@ -1,5 +1,5 @@
 ---
-title: "TailwindCSS using only Hugo Pipes"
+title: TailwindCSS using only Hugo Pipes
 draft: false
 ---
 
